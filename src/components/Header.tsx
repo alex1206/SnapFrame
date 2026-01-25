@@ -12,19 +12,7 @@ export default function Header() {
             SnapFrame
           </div>
         </div>
-        <div className="flex items-center gap-2">
-          <a
-            href="https://github.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-4 py-2 text-sm font-medium text-[var(--text-secondary)] hover:text-white hover:bg-[var(--glass-highlight)] rounded-lg transition-all"
-          >
-            GitHub
-          </a>
-          <button className="px-4 py-2 text-sm font-medium text-[var(--text-secondary)] hover:text-white hover:bg-[var(--glass-highlight)] rounded-lg transition-all">
-            关于
-          </button>
-        </div>
+
       </div>
     </header>
   );
