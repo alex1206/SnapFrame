@@ -99,6 +99,3 @@ snapframe/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 提交 Pull Request
 
-## 📄 许可证 (License)
-
-[MIT License](LICENSE)
